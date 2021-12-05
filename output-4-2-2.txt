@@ -1,0 +1,2 @@
+The height of the tree is 11. 
+The number of leaf nodes 16
